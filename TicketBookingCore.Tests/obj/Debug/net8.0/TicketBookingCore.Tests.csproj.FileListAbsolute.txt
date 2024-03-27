@@ -100,3 +100,9 @@ E:\Development\c#\TicketBooking\TicketBookingCore.Tests\obj\Debug\net8.0\refint\
 E:\Development\c#\TicketBooking\TicketBookingCore.Tests\obj\Debug\net8.0\TicketBookingCore.Tests.pdb
 E:\Development\c#\TicketBooking\TicketBookingCore.Tests\obj\Debug\net8.0\TicketBookingCore.Tests.genruntimeconfig.cache
 E:\Development\c#\TicketBooking\TicketBookingCore.Tests\obj\Debug\net8.0\ref\TicketBookingCore.Tests.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\bin\Debug\net8.0\Castle.Core.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\bin\Debug\net8.0\Moq.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Development\c#\TicketBooking\TicketBookingCore.Tests\obj\Debug\net8.0\TicketBookingCore.Tests.sourcelink.json

@@ -9,3 +9,4 @@ E:\Development\c#\TicketBooking\TicketBookingCore\obj\Debug\net8.0\TicketBooking
 E:\Development\c#\TicketBooking\TicketBookingCore\obj\Debug\net8.0\refint\TicketBookingCore.dll
 E:\Development\c#\TicketBooking\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.pdb
 E:\Development\c#\TicketBooking\TicketBookingCore\obj\Debug\net8.0\ref\TicketBookingCore.dll
+E:\Development\c#\TicketBooking\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.sourcelink.json
